@@ -44,11 +44,11 @@ Source Systems
 
 ## Key Features
 
-- **HIPAA-compliant** — KMS encryption, field-level masking, CloudTrail audit logging
+- **HIPAA-compliant** - KMS encryption, field-level masking, CloudTrail audit logging
 - **2M+ member** enrollment and claims processing
 - **5M+ patient records** with S3 lifecycle archival (22% storage cost reduction)
 - **Real-time claims** ingestion via Kinesis + Lambda (26% faster fraud detection)
-- **100+ automated workflows** — 40% reduction in manual processing errors
+- **100+ automated workflows** - 40% reduction in manual processing errors
 - **5,000+ datasets** catalogued in AWS Glue Catalog (+58% discovery efficiency)
 - **41% improvement** in Redshift query performance for 400+ analysts
 
@@ -80,5 +80,5 @@ Source Systems
 
 ## Author
 
-**Pramod Vishnumolakala** — Senior Data Engineer  
+**Pramod Vishnumolakala** - Senior Data Engineer  
 [pramodvishnumolakala@gmail.com](mailto:pramodvishnumolakala@gmail.com) · [LinkedIn](https://linkedin.com/in/pramod-vishnumolakala)
